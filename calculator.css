@@ -21,6 +21,7 @@ justify-content: center;
 }
 .heading{
     color: white;
+    text-align: center;
 }
 .Calculator form input{
     border: 0;
